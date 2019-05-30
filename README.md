@@ -7,3 +7,4 @@
 ## Vue
 
 1. Install Vuetify Plugin
+2. Install & Config Axios
